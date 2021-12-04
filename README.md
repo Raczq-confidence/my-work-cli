@@ -5,4 +5,4 @@ this is a cli based on vue-cli for my work
 add log util for dev
 
 # create
-vue init https://github.com/Raczq-confidence/my-work-cli <your-project-name>
+vue init https://github.com/Raczq-confidence/my-work-cli &lt;your-project-name&gt;
