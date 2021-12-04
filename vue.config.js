@@ -6,7 +6,7 @@ module.exports = {
     config
       .plugin('html')
       .tap(args => {
-        args[0].title = 'your app name'
+        args[0].title = 'your project name'
         return args
       })
   },
